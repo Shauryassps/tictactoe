@@ -1,8 +1,8 @@
-🎮 Tic Tac Toe Game
+<h1>🎮 Tic Tac Toe Game</h1>
 
 A simple and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript. This project demonstrates basic game logic, DOM manipulation, and responsive UI design without using any external libraries or frameworks.
 
-✨ Features
+<h1>✨ Features</h1>
 
 🆕 New Game – Start a fresh game anytime
 
@@ -14,7 +14,7 @@ A simple and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.
 
 📱 Responsive Design – Works on desktop and mobile devices
 
-🛠️ Technologies Used
+<h1>🛠️ Technologies Used</h1>
 
 HTML – Structure of the game
 
@@ -22,7 +22,7 @@ CSS – Styling and layout
 
 JavaScript – Game logic and interactivity
 
-🚀 How to Play
+<h1>🚀 How to Play</h1>
 
 Open the game in your browser
 
@@ -34,14 +34,14 @@ The game announces:
 
 A winner when three symbols align
 
-📂 Project Structure
+<h1>📂 Project Structure</h1>
 tic-tac-toe/
 │
 ├── index.html
 ├── style.css
 └── script.js
 
-💡 Future Improvements (Optional)
+<h1>💡 Future Improvements (Optional)</h1>
 
 Add sound effects 🎵
 
@@ -51,12 +51,12 @@ Keep score between rounds 📊
 
 Add animations ✨
 
-📸 Preview
+<h1>📸 Preview</h1>
 
 <img width="649" height="849" alt="image" src="https://github.com/user-attachments/assets/22a288e6-12be-4b9c-8327-4ce4da627727" />
 
 
-📄 License
+<h1>📄 License</h1>
 
 This project is open-source and available under the MIT License.
 A draw if the board fills with no winner
