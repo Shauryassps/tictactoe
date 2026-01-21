@@ -54,6 +54,8 @@ Add animations ✨
 <h1>📸 Preview</h1>
 
 <img width="649" height="849" alt="image" src="https://github.com/user-attachments/assets/22a288e6-12be-4b9c-8327-4ce4da627727" />
+<img width="943" height="894" alt="image" src="https://github.com/user-attachments/assets/a2356a79-aefc-407c-a938-86ef83762e21" />
+
 
 
 <h1>📄 License</h1>
